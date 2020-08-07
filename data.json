@@ -18,5 +18,5 @@
   { "Name": "Testing", "Percentage": 63.0},
    { "Name": "Testing", "Percentage": 65.0 },
     { "Name": "Testing", "Percentage": 70.0 },
-     {"Name": "Testing", "Percentage": "85.0" }
+     {"Name": "Testing", "Percentage": 85.0 }
 ];
