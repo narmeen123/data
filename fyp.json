@@ -1,0 +1,9 @@
+[
+  { "Name": "Scope", "Percentage": 10.0 },
+  { "Name": "SRS", "Percentage": 20.0 },
+  { "Name": "Processing", "Percentage": 30.0 },
+  { "Name": "SDS", "Percentage": 40.0 },
+  { "Name": "Modules", "Percentage": 70.0 },
+  { "Name": "Environment", "Percentage": 95.0 },
+  { "Name": "Testing", "Percentage": 100.0 }
+]
