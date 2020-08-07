@@ -1,4 +1,4 @@
-var dataset = [
+[
   { "Name": "Scope", "Percentage": "10.0" },
    { "Name": "SRS", "Percentage": "15.0" },
    {"Name": "SRS", "Percentage": "17.0" },
