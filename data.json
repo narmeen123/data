@@ -10,7 +10,7 @@ var dataset = [
      { "Name": "SDS", "Percentage": "38.0" },
   { "Name": "SDS", "Percentage": "40.0" },
   { "Name": "Coding", "Percentage": "41.0" },
-   { "Name" "Coding", "Percentage": "41.5" },
+   { "Name" :"Coding", "Percentage": "41.5" },
     { "Name": "Coding","Percentage": "50.0" },
   { "Name": "Coding", "Percentage": "55.0" },
    { "Name": "Coding", "Percentage": "60.0" },
